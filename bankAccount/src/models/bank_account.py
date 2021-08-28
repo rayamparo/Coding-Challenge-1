@@ -1,4 +1,4 @@
-from json import JSONEncoder, dumps
+from json import JSONEncoder
 from src.models.account_transaction import AccountTransaction
 
 class BankAccount:
